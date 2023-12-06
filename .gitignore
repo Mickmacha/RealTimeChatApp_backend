@@ -1,3 +1,7 @@
+#ignore virtualenv
+virtualvenv
 
+*.pyc
 
+*.pyo
 
