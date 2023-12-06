@@ -1,7 +1,10 @@
-#ignore virtualenv
-virtualvenv
-
+# Virtual environment
+virtualenv/
 *.pyc
-
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
 *.pyo
+*.pyd
 
+.vscode/
